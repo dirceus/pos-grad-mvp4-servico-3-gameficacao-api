@@ -1,1 +1,2 @@
-# pos-grad-mvp4-servico-3-gameficacao-api
+# pos-grad-mvp4-respondarapido-api
+API da responder questões
